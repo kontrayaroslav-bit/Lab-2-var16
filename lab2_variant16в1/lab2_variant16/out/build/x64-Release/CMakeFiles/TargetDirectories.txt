@@ -1,3 +1,0 @@
-D:/lab2_variant16в1/lab2_variant16/out/build/x64-Release/CMakeFiles/lab2.dir
-D:/lab2_variant16в1/lab2_variant16/out/build/x64-Release/CMakeFiles/edit_cache.dir
-D:/lab2_variant16в1/lab2_variant16/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
